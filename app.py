@@ -35,7 +35,7 @@ avatar_src = load_base64_image(
 
 # 2. Autobiography Popup Photo (Drop 'bio.jpg' or 'autobiography.jpg' in folder)
 bio_src = load_base64_image(
-    ["bio.jpg", "bio.png", "autobiography.jpg", "autobiography.png", "modal.jpg"],
+    ["bio.JPG", "bio.jpg", "bio.png", "autobiography.jpg", "autobiography.png", "modal.jpg"],
     avatar_src
 )
 
